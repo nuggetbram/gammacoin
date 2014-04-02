@@ -716,6 +716,8 @@ public:
     });)
 };
 
+
+
 /** Undo information for a CTxIn
  *
  *  Contains the prevout's CTxOut being spent, and if this was the
